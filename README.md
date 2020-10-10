@@ -8,7 +8,7 @@ https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-logo-small="http://thaiip.tv/tvlogo2/32.png" tvg-logo="http://thaiip.tv/tvlogo2/32.png" tvg-chno="32" group-title="THAI Digital TV" tvg-name="ไทยรัฐทีวี", TH: Thairath 32
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-logo-small="http://thaiip.tv/tvlogo2/33.png" tvg-logo="http://thaiip.tv/tvlogo2/33.png" tvg-chno="33" group-title="THAI Digital TV" tvg-name="ไทยทีวีสีช่อง 3", TH: THAI 33 HD
-https://aisplay.ais.co.th/portal/live?vid=59592e08bf6aee4e3ecce051
+https://cdnjs.cloudflare.com/ajax/libs/es6-promise/4.1.1/es6-promise.min.js
 #EXTINF:-1 tvg-id="34" tvg-logo-small="http://thaiip.tv/tvlogo2/34.png" tvg-logo="http://thaiip.tv/tvlogo2/34.png" tvg-chno="34" group-title="THAI Digital TV" tvg-name="Amarin TV", TH: Amarin TV Thai HD
 http://119.59.125.74/stream/totnew.php?channel_id=78f57ebcf6064b308d75208a20756983
 #EXTINF:-1 tvg-id="35" tvg-logo-small="http://thaiip.tv/tvlogo2/35.png" tvg-logo="http://thaiip.tv/tvlogo2/35.png" tvg-chno="35" group-title="THAI Digital TV" tvg-name="ช่อง7สี", TH:THAI 7HD
