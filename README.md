@@ -1,6 +1,6 @@
 #EXTM3U Line ID : thaiip.tv
 #EXTINF:-1 tvg-id="29" tvg-logo-small="http://thaiip.tv/tvlogo2/29.png" tvg-logo="http://thaiip.tv/tvlogo2/29.png" tvg-chno="29" group-title="THAI Digital TV" tvg-name="Mono29", TH: MONO29 HD
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+https://www.youtube.com/watch?v=i0DYgpN4ahA&ab_channel=MunkTV
 #EXTINF:-1 tvg-id="30" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="30" group-title="THAI Digital TV" tvg-name="MCOT HD 30", TH: MCOT HD 30
 http://dootvthai-hd.com/cmd/api/true/9MCOT-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="31" tvg-logo-small="http://thaiip.tv/tvlogo2/31.png" tvg-logo="http://thaiip.tv/tvlogo2/31.png" tvg-chno="31" group-title="THAI Digital TV" tvg-name="One 31", TH: GMM ONE HD
