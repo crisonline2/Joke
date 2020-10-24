@@ -5,3 +5,13 @@ https://vodcache-n1.uplayhd.tv/8WrxYJJTr939uZeDTkgoMw/1603551922/live/hd-ch3_108
 https://vodcache-n2.uplayhd.tv/AfwVf6gl-um6ChTa7kR_Cw/1603552098/live/hd-ch5_720/chunks.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",CH7
 https://edge-n2s.uplayhd.tv/VZUQZe9ZDStaglok7o7QAQ/1603552206/live/hd-ch7_1080/chunks.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT
+https://vodcache-n1.uplayhd.tv/H0MJIdNsGRB3PgHowLtbtQ/1603552438/live/hd-mcot_1080/chunks.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+https://edge-n1s.uplayhd.tv/KHAcP3Dbv_hUtcdgjPifqA/1603552529/live/sd-nbt_720/chunks.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",Thai PBS(FHD)
+https://edge-n2s.uplayhd.tv/SqbGb4U4HXg5OoQlQW45jg/1603553347/live/hd-tpbs_1080/chunks.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/thairath.png",Thairath
+https://edge-n1s.uplayhd.tv/F26PfjaBbVoW37qmTUy72Q/1603552967/live/hd-thairath_720/chunks.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV
+https://vodcache-n2.uplayhd.tv/dJhOPoFLfAstMegrY6tAcg/1603553158/live/hd-pptv_720/chunks.m3u8
