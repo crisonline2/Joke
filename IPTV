@@ -1,7 +1,7 @@
 #EXTM3U Line ID : kryanupong
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
 https://vodcache-n1.uplayhd.tv/8WrxYJJTr939uZeDTkgoMw/1603551922/live/hd-ch3_1080/chunks.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="เธ—เธ—เธ. 5", TH: THAI 5
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
 https://vodcache-n2.uplayhd.tv/AfwVf6gl-um6ChTa7kR_Cw/1603552098/live/hd-ch5_720/chunks.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",CH7
 https://edge-n2s.uplayhd.tv/VZUQZe9ZDStaglok7o7QAQ/1603552206/live/hd-ch7_1080/chunks.m3u8
@@ -15,3 +15,21 @@ https://edge-n2s.uplayhd.tv/SqbGb4U4HXg5OoQlQW45jg/1603553347/live/hd-tpbs_1080/
 https://edge-n1s.uplayhd.tv/F26PfjaBbVoW37qmTUy72Q/1603552967/live/hd-thairath_720/chunks.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV
 https://vodcache-n2.uplayhd.tv/dJhOPoFLfAstMegrY6tAcg/1603553158/live/hd-pptv_720/chunks.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
+https://edge-n4s.uplayhd.tv/UE_vVJG-88g_9mwNJ0qIBg/1603553986/live/hd-amarin_720/chunks.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/gmm.png",GMM
+https://vodcache-n2.uplayhd.tv/zSXxjWraLVYmYfHcjkid7A/1603553808/live/sd-gmmchannel_480/chunks.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
+https://edge-n3.worldwidetv.club/vsJ6HDOZ5A2AdMmQg3DP4A/1603554142/live-abr/hd-gmmone/liveorigin/hd-gmmone_1080/chunks.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+EXTINF:-1 group-title="Digital.TV" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+title="THAI Digital TV" tvg-name="Mono29", TH: MONO29 HD
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
+http://27.254.130.64/live01/chsd_TNN_5.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/nation.png",Nation
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/true4u.png",true4U
+https://edge-n1s.uplayhd.tv/N2RooxX7hJLjyYddViLXxA/1603555026/live/hd-mono_480/chunks.m3u8
