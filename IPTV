@@ -1,6 +1,79 @@
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
-https://live4.fwstream.com/transcoder_F1/premierhd1_fwiptv.s…FRJUTQxa1puZnRPRi9qc0E9PQ==,949ea34b3d761c89df33339101bae71f
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2
-https://live4.fwstream.com/transcoder_F1/premierhd1_fwiptv.stream
-
+#EXTM3U
+#EXTINF:-1,WOWOW HD
+http://49.48.44.24:1008
+#EXTINF:-1,THAIPBS HD
+http://49.48.44.24:1022
+#EXTINF:-1,TraceSport HD
+http://49.48.44.24:1014
+#EXTINF:-1,TSports
+http://49.48.44.24:1013
+#EXTINF:-1,Warner HD
+http://49.48.44.24:1015
+#EXTINF:-1,GMM25
+http://49.48.44.24:1030
+#EXTINF:-1,JA TING JA
+http://49.48.44.24:1032
+#EXTINF:-1,ZooMoo HD
+http://49.48.44.24:1011
+#EXTINF:-1,3 HD
+http://49.48.44.24:1037
+#EXTINF:-1,MONO29
+http://49.48.44.24:1033
+#EXTINF:-1,MTV Live HD
+http://49.48.44.24:1018
+#EXTINF:-1,True4U
+http://49.48.44.24:1029
+#EXTINF:-1,CH7 HD
+http://49.48.44.24:1039
+#EXTINF:-1,Nation TV
+http://49.48.44.24:1027
+#EXTINF:-1,NHK G HD
+http://49.48.44.24:1004
+#EXTINF:-1,Warner HD
+http://49.48.44.24:1002
+#EXTINF:-1,MCH2
+http://49.48.44.24:1024
+#EXTINF:-1,AHM HD
+http://49.48.44.24:1017
+#EXTINF:-1,NBT https://iptv.live
+http://49.48.44.24:1021
+#EXTINF:-1,TNN24
+http://49.48.44.24:1023
+#EXTINF:-1,Workpoint TV
+http://49.48.44.24:1028
+#EXTINF:-1,AUSTRALIA NEWS HD
+http://49.48.44.24:1003
+#EXTINF:-1,Figth Sports HD
+http://49.48.44.24:1012
+#EXTINF:-1,PPTV HD
+http://49.48.44.24:1040
+#EXTINF:-1,tv asahi HD
+http://49.48.44.24:1005
+#EXTINF:-1,ONE HD
+http://49.48.44.24:1035
+#EXTINF:-1,THAI CCTV
+http://49.48.44.24:1025
+#EXTINF:-1,ANIMAX HD
+http://49.48.44.24:1009
+#EXTINF:-1,MiaoMi HD
+http://49.48.44.24:1010
+#EXTINF:-1,9MCOT HD
+http://49.48.44.24:1034
+#EXTINF:-1,AUSTRALIA NEWS HD
+http://49.48.44.24:1007
+#EXTINF:-1,Comedy HD
+http://49.48.44.24:1019
+#EXTINF:-1,Paramount Channel HD
+http://49.48.44.24:1016
+#EXTINF:-1,TV51 HD
+http://49.48.44.24:1020
+#EXTINF:-1,Boomerang
+http://49.48.44.24:1026
+#EXTINF:-1,CH8
+http://49.48.44.24:1031
+#EXTINF:-1,Live HD
+http://49.48.44.24:1006
+#EXTINF:-1,Amarin TV HD
+http://49.48.44.24:1038
+#EXTINF:-1,Thairath TV HD
+http://49.48.44.24:1036
