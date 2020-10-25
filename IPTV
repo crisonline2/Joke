@@ -1,6 +1,6 @@
 #EXTM3U Line ID : kryanupong
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
-https://live8.fwstream.com/transcoder_F3/dtv33_ch3hd/playlist.m3u8
+http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8?U2MrYllXZXpUUXE4THlIbjNaejdnVE1nbGt5UnZhSjhORnE4VjIxdktHbjlWMXZPMTRqb21XVXNzOXgybkFMNk1YdVY0SXhFd1B6K25JV2dMbUNtRVpleVl5M2ZwUHRUQml2enhMZzQ4V241Wm5ka0s5S3lYR0RDcGU0ZmtpV1Rhbm1PempoKzZsWmVjNWlySXVtTjRRPT0=,b8d4cfa114ca04e4234fdbc36091189a
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
 https://live3.fwstream.com/transcoder_F3/dtv01_ch5hd/playlist.m3u8
