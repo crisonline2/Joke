@@ -30,10 +30,10 @@ https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=cjeNTlhZTViMGNkNmIxYjcyMGM4MANGQxN
 https://p0.cdn.vet/live/ch0/i/ch0i.m3u8?sid=cjeYmIwMDA0ZDI4NDNjNTEwYzE0NgN2U4ODM1ZDIzN2I2ODg0
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
-https://free.fwstream.com:1215/freelive-edge/_definst_/onehd.smil/chunklist_w841768323_b1046608.m3u8?Z3l6dUY4YndsY25pclMrL1g3RUovRFhWREdMQVVzck1TdmJYNUMxZis2THdhd1k5bkVDVmE4N3lWOVRPSHhRM2tTVXo5eUx4YU52UU5MbGRoZ3g3ajJWSXdTMm5LR1N0WStsNzNwOTlidVpQRzdrVUFSbmM0VC9mVkZRQUtwbzhwWHhLOUljQXFodE4yeithRk52Z2NMTkdSc2RZbnBrSEZjT0NENThNOGFUN1BTWXRRc0dpdmlYclpicncyUk13,0cbee4ada034e6ded4e28819f66ec06b=
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
-http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8nSs7CGuzewffp95CvAfa9E)/dm/3/x6g9qjj/s/live-3.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
 http://27.254.130.64/live01/chsd_TNN_5.m3u8
@@ -42,7 +42,7 @@ http://27.254.130.64/live01/chsd_TNN_5.m3u8
 https://p0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=cjeMjZkZTdhYTNkNjVkYmQyZmI4ZANmUxNGNjYzRiNzBjMGI1
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
-https://edge-n1s.uplayhd.tv/N2RooxX7hJLjyYddViLXxA/1603555026/live/hd-mono_480/chunks.m3u8
+http://183.182.100.184/live/true4u/chunklist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="http://thaiip.tv/tvlogo2/29.png",Mono29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
