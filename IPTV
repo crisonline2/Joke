@@ -1,6 +1,6 @@
 #EXTM3U Line ID : kryanupong
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
-https://edge-n1s.uplayhd.tv/N2RooxX7hJLjyYddViLXxA/1603555026/live/hd-mono_480/chunks.m3u8
+https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=cjeNjhjZTUyNTFiODY0Y2I5OWE1MwMWU5MmQ2NjlkYTdkNmIx
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
 https://p0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=cjeYTUwMzhlOWJiNWJiMTlkZWMyMgODc3ZGQ3NGRkMjg2YTI1
@@ -41,7 +41,7 @@ http://27.254.130.64/live01/chsd_TNN_5.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/nation.png",Nation
 https://p0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=cjeMjZkZTdhYTNkNjVkYmQyZmI4ZANmUxNGNjYzRiNzBjMGI1
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/true4u.png",true4U
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
 https://edge-n1s.uplayhd.tv/N2RooxX7hJLjyYddViLXxA/1603555026/live/hd-mono_480/chunks.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="http://thaiip.tv/tvlogo2/29.png",Mono29
