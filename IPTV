@@ -44,7 +44,7 @@ https://p0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=cjeMjZkZTdhYTNkNjVkYmQyZmI4ZANmUxN
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/true4u.png",true4U
 https://edge-n1s.uplayhd.tv/N2RooxX7hJLjyYddViLXxA/1603555026/live/hd-mono_480/chunks.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-logo-small="http://thaiip.tv/tvlogo2/29.png" tvg-logo="http://thaiip.tv/tvlogo2/29.png" tvg-chno="29" group-title="Digital.TV" tvg-name="Mono29", TH: MONO29 HD
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="http://thaiip.tv/tvlogo2/29.png",Mono29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 
 
