@@ -1,0 +1,48 @@
+#EXTM3U Line ID : kryanupong
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
+https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=cjeNjhjZTUyNTFiODY0Y2I5OWE1MwMWU5MmQ2NjlkYTdkNmIx
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
+https://p0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=cjeYTUwMzhlOWJiNWJiMTlkZWMyMgODc3ZGQ3NGRkMjg2YTI1
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",CH7
+https://free2.fwstream.com:1215/freelive-edge/_definst_/7hd.smil/chunklist_w1907041546_b1046608.m3u8
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT
+https://p0.cdn.vet/live/ch9/i/ch9i.m3u8?sid=cjeZmFjMmU1ODk3NDEwMGM0NjFmNwNTRjNGY4NTgyNGJjNDUy
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+https://p0.cdn.vet/live/ch11/i/ch11i.m3u8?sid=cjeNzRkZGUzYTg5YWM4ZjhiYjA2MAOTJjMTUyYWJkYjE3NjFh
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",Thai PBS(FHD)
+https://p0.cdn.vet/live/ch1/i/ch1i.m3u8?sid=cjeYzc3ZTgxNDgxMWYxMmY2MzE5ZgMmE2ODQxNTI0ODM4YWUx
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/thairath.png",Thairath
+https://p0.cdn.vet/live/ch39/i/ch39i.m3u8?sid=cjeMTRlNWQ4YjIxMGJlMmE2NWYyNgNjhhNWI3MzRkZWMwYzI1
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV
+https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeMGI0YWJlNmZmOTc2ZjdmYTZhNgMTU5MzkwMmFjZmMyOWY5
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
+https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=cjeNTlhZTViMGNkNmIxYjcyMGM4MANGQxNzM2YzQxZjZhYmI0
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/gmm.png",GMM
+https://p0.cdn.vet/live/ch0/i/ch0i.m3u8?sid=cjeYmIwMDA0ZDI4NDNjNTEwYzE0NgN2U4ODM1ZDIzN2I2ODg0
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
+https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8nSs7CGuzewffp95CvAfa9E)/dm/3/x6g9qjj/s/live-3.m3u8
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
+http://27.254.130.64/live01/chsd_TNN_5.m3u8
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/nation.png",Nation
+https://p0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=cjeMjZkZTdhYTNkNjVkYmQyZmI4ZANmUxNGNjYzRiNzBjMGI1
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
+http://183.182.100.184/live/true4u/chunklist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="http://thaiip.tv/tvlogo2/29.png",Mono29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
